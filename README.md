@@ -3,4 +3,4 @@ my first repository
 
 Hi Humans!
 
-Wendy is here, I like sing, dance, rap and basketball. 
+Wenday here, I like sing, dance, rap and basketball. 
